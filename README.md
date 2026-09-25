@@ -1,6 +1,6 @@
 # Märit-Kalender Bern
 
-Alle Wochen- und Quartiermärkte der Stadt Bern auf einer Seite: was heute offen ist, was morgen, Zeiten und Orte. Dazu die Jahresmärkte (Zibelemärit, Weihnachtsmärkte, Brotmarkt, Graniummärit). DE/EN/SK, kein Tracking.
+Alle Wochen- und Quartiermärkte der Stadt Bern auf einer Seite: was heute offen ist, was morgen, Zeiten und Orte. Dazu die Jahresmärkte (Zibelemärit, Weihnachtsmärkte, Brotmarkt, Graniummärit). DE/EN, kein Tracking.
 
 Live: **https://richardcervenka111-create.github.io/maerit-kalender-bern/**
 
